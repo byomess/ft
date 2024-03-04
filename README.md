@@ -1,6 +1,35 @@
-# ft - Find Turbo
+<p align="center">
+    <img width="200px" src="https://github.com/felipechierice/ft/blob/main/images/logo.png?raw=true" align="center" alt="Find Turbo Logo" />
+    <h2 align="center">ft - Find Turbo</h2>
+    <p align="center">Your <code>find</code> command on <strong>turbo</strong></p>
+</p>
 
-`ft` (Find Turbo) is simple command-line tool designed to enhance the file/directory search capabilities for Unix-based systems. Initially, my objective was simply to create a wrapper for the standard Linux find command to prevent it from returning "Permission denied" errors as part of its results. However, as you see, I ended up doing something more. Much like its inspiration, `ft` aims to provide a more efficient, user-friendly, and visually appealing experience for searching files and directories. It leverages the power of regex patterns for search criteria and the [Rich library](https://github.com/willmcgugan/rich) for elegant formatting, making your search results not only precise but also easier to read and interpret.
+<p align="center">
+    <a href="https://github.com/felipechierice/ft/stargazers">
+        <img src="https://img.shields.io/github/stars/felipechierice/ft?style=social" alt="GitHub stars">
+    </a>
+    <a href="https://github.com/felipechierice/ft/network/members">
+        <img src="https://img.shields.io/github/forks/felipechierice/ft?style=social" alt="GitHub forks">
+    </a>
+    <a href="https://github.com/felipechierice/ft/issues">
+        <img src="https://img.shields.io/github/issues/felipechierice/ft" alt="GitHub issues">
+    </a>
+    <a href="https://github.com/felipechierice/ft/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/felipechierice/ft" alt="GitHub license">
+    </a>
+    <a href="https://github.com/felipechierice/ft/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/felipechierice/ft" alt="GitHub contributors">
+    </a>
+    <a href="https://github.com/felipechierice/ft/commits/main">
+        <img src="https://img.shields.io/github/last-commit/felipechierice/ft" alt="GitHub last commit">
+    </a>
+</p>
+
+`ft` (Find Turbo) is simple command-line tool designed to enhance the file/directory search capabilities for Unix-based systems.
+
+Initially, my objective was simply to create a wrapper for the standard Linux `find` command to prevent it from returning "Permission denied" errors as part of its results, when it tries to read files the user don't own. However, as you see, I ended up doing something more.
+
+Much like its inspiration, `ft` aims to provide a more efficient, user-friendly, and visually appealing experience for searching files and directories. It leverages the power of regex patterns for search criteria and the [Rich library](https://github.com/willmcgugan/rich) for elegant formatting, making your search results not only precise but also easier to read and interpret.
 
 ## Key Features
 
