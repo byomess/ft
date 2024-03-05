@@ -53,13 +53,13 @@ You can install `ft` using curl, wget, or by manually cloning the repository and
 ### Using Curl
 
 ```bash
-curl -sSL "https://raw.githubusercontent.com/felipechierice/ft/main/install.sh" | sh -s -- --clone
+curl -sSL "https://raw.githubusercontent.com/felipechierice/ft/main/install.sh" | bash -s -- --clone
 ```
 
 ### Using Wget
 
 ```bash
-wget -qO- "https://raw.githubusercontent.com/felipechierice/ft/main/install.sh" | sh -s -- --clone
+wget -qO- "https://raw.githubusercontent.com/felipechierice/ft/main/install.sh" | bash -s -- --clone
 ```
 
 ### Manual Installation
