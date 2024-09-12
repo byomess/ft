@@ -29,7 +29,7 @@
 
 Initially, my objective was simply to create a wrapper for the standard Linux `find` command to prevent it from returning "Permission denied" errors as part of its results, when it tries to read files the user don't own. However, as you see, I ended up implementing some further ideas I had.
 
-Much like its inspiration, `ft` aims to provide a more efficient, user-friendly, and visually appealing experience for searching files and directories. It leverages the power of regex patterns for search criteria and the [Rich library](https://github.com/willmcgugan/rich) to provide you with a elegant informational-rich perspective of what you seek on a glance, making your search results not only precise but also easier to read and interpret.
+Much like its inspiration, `ft` aims to provide a more efficient, user-friendly, and visually appealing experience for searching files and directories. It leverages the power of regex patterns for search criteria and the [Rich library](https://github.com/willmcgugan/rich) to provide you with a elegant informational-rich perspective of what you seek on a glance, making your search results some more straightforward, clear, still easy to interpret.
 
 ## Key Features
 
