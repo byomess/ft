@@ -25,7 +25,7 @@
     </a>
 </p>
 
-`ft` (Find Turbo) is simple command-line tool designed to enhance the file/directory search capabilities for Unix-based systems.
+`ft` (Find Turbo) is a simple command-line tool designed to enhance the file/directory search capabilities for Unix-based systems.
 
 Initially, my objective was simply to create a wrapper for the standard Linux `find` command to prevent it from returning "Permission denied" errors as part of its results, when it tries to read files the user don't own. However, as you see, I ended up doing something more.
 
