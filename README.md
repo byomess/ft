@@ -52,7 +52,7 @@ Further, this is a also a personal Python studying purpose project I had for pra
 
 You can install `ft` using curl, wget, or by manually cloning the repository and installing dependencies. 
 
-### Using Curl
+### Using cURL
 
 ```bash
 curl -sSL "https://raw.githubusercontent.com/felipechierice/ft/main/install.sh" | bash -s -- --clone
