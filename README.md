@@ -31,6 +31,8 @@ Initially, my objective was simply to create a wrapper for the standard Linux `f
 
 Much like its inspiration, `ft` aims to provide a more efficient, user-friendly, and visually appealing experience for searching files and directories. It leverages the power of regex patterns for search criteria and the [Rich library](https://github.com/willmcgugan/rich) to provide you with a elegant informational-rich perspective of what you seek on a glance, making your search results some more straightforward, clear, still easy to interpret.
 
+Further, this is a also a personal Python studying purpose project I had for practicing.
+
 ## Key Features
 
 - **Rich Formatting**: With the Rich library integration, search results are displayed with syntax highlighting and beautiful formatting, making them more accessible and informative.
